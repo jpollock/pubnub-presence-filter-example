@@ -1,0 +1,20 @@
+{
+  "name": "pubnub-presence-filter-example",
+  "version": "0.0.1",
+  "description": "Simple node app for demonstrating presence event filtering",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "presence",
+    "stream-filtering",
+    "pubnub"
+  ],
+  "author": "jeremy@pubnub.com",
+  "license": "ISC",
+  "dependencies": {
+    "pubnub": "^4.27.6",
+    "yargs": "^15.3.1"
+  }
+}
