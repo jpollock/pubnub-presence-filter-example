@@ -14,7 +14,7 @@
   "author": "jeremy@pubnub.com",
   "license": "ISC",
   "dependencies": {
-    "pubnub": "^4.27.6",
+    "pubnub": "^4.37.0",
     "yargs": "^15.3.1"
   }
 }
